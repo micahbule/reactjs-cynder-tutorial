@@ -1,0 +1,9 @@
+{
+  "name": "react_tutorial",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "shortid": "^2.2.4",
+    "simple-json-store": "0.0.1"
+  }
+}
